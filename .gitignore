@@ -1,0 +1,31 @@
+# ==============================
+# 1. 你指定的特定数据和结果文件夹
+# ==============================
+descriptors_1/
+descriptors_2/
+descriptors_3/
+error/
+example_cif_folder/
+feature_folders_1/
+property_png/
+
+# ==============================
+# 2. Python 及虚拟环境 (强烈建议保留)
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# ==============================
+# 3. 常见数据文件与 Jupyter 缓存
+# ==============================
+*.cif
+*.csv
+*.log
+.ipynb_checkpoints/
+.vscode/
+.idea/
