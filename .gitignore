@@ -24,7 +24,6 @@ env/
 # 3. 常见数据文件与 Jupyter 缓存
 # ==============================
 *.cif
-*.csv
 *.log
 .ipynb_checkpoints/
 .vscode/
