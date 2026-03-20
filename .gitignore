@@ -1,14 +1,12 @@
 # ==============================
 # 1. 你指定的特定数据和结果文件夹
 # ==============================
-descriptors_1/
-descriptors_2/
-descriptors_3/
-error/
-example_cif_folder/
-feature_folders_1/
-property_png/
-
+calc/descriptors/
+calc/error/
+calc/example_cif_folder/
+calc/feature_folders/
+calc/feature_folders_1/
+calc/property_png/
 # ==============================
 # 2. Python 及虚拟环境 (强烈建议保留)
 # ==============================
